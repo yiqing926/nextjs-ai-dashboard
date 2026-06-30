@@ -1,0 +1,25 @@
+{
+  "Dashboard": {
+    "title": "AI Smart Analytics Dashboard",
+    "description": "Full-stack analytics powered by DeepSeek LLM",
+    "analyzeBtn": "Run AI Analysis",
+    "kpiRevenue": "Total Revenue",
+    "kpiUsers": "Active Users",
+    "kpiConversionRate":"Conversion Rate",
+    "dailyIncomeTrend": "Daily Income Trend",
+    "userBehaviorTrend": "User Behavior Trend",
+    "dignosisBtn":"Copilot Big Data AI Intelligent Diagnosis",
+    "diagnosisLoading":"Diagnosis Loading...",
+    "diagnosisResult":"Diagnosis Result: ",
+    "aiDescription":"Have the large model directly retrieve and analyze the time-series JSON data above, identify deep conversion defects, and provide solutions.",
+    "dataFluctuationWarning":"Beware of date fluctuations: ",
+    "aiFind":"AI recognizes ",
+    "deviationWarning":" has a significant deviation in the data, which needs to be thoroughly investigated.",
+    "deepDive":"Deep Dive",
+    "actionPlan":"Recommended Action Plan",
+    "loadingData":"Loading Dashboard Data...",
+    "activeUserLabel":"Active Users",
+    "conversionRateLabel":"Conversion Rate",
+    "defaultPrompt":"Can you help me analyze the reasons for the sudden decline in sales and provide operational improvement plans"
+  }
+}

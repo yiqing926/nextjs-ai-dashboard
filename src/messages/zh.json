@@ -1,0 +1,25 @@
+{
+  "Dashboard": {
+    "title": "AI 智能分析仪表盘",
+    "description": "基于 DeepSeek 大模型的全栈数据分析生态",
+    "analyzeBtn": "开始 AI 智能分析",
+    "kpiRevenue": "总收入",
+    "kpiUsers": "平均活跃用户",
+    "kpiConversionRate":"平均转化率",
+    "dailyIncomeTrend": "每日收入趋势",
+    "userBehaviorTrend": "用户行为趋势",
+    "dignosisBtn":"Copilot 大数据 AI 智能诊断",
+    "diagnosisLoading": "诊断中...",
+    "diagnosisResult": "诊断结论: ",
+    "aiDescription":"让大模型直接检索分析上方的时序 JSON 数据，寻找深层转化缺陷并提供方案。",
+    "dataFluctuationWarning":"警惕日期异动： ",
+    "aiFind":"AI 识别到 ",
+    "deviationWarning":" 存在剧烈的数据偏离，需重点排查。",
+    "deepDive":"根因深挖",
+    "actionPlan":"推荐行动预案",
+    "loadingData":"正在加载仪表盘数据...",
+    "activeUserLabel":"活跃用户",
+    "conversionRateLabel":"转化率",
+    "defaultPrompt":"帮我分析销售额突然下滑的原因，并给出运营改进方案"
+  }
+}
