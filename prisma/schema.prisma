@@ -1,0 +1,17 @@
+datasource db {
+  provider  = "postgresql"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// 定义每日指标表，对应你之前的 DailyMetrics 接口
+model DailyMetric {
+  id             String   @id @default(dbgenerated("gen_random_uuid()")) // 唯一主键
+  date           String   // 日期，例如 "06-15"
+  revenue        Float    // 收入
+  activeUsers    Int      // 活跃用户数
+  conversionRate Float    // 转化率
+  createdAt      DateTime @default(now())      // 创建时间
+}
